@@ -22,4 +22,4 @@ Key Components
 
 Team
 
-Indang Safitrie, Sarah Mastiur, Ashley Choi & Mohammed Islam
+Indang Safitrie, Sarah Mastiur, Ashley Choi, Mohammed Islam
